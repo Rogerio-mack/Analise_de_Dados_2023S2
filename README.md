@@ -22,9 +22,7 @@
 
 [Exercício 5: Lab Quantidades e Proporções (`bar`,`barplot`)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_quantidades_proporc.ipynb)
 
-[Exercício Extra: Lab Simulado](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_ex_extra.ipynb)
-
-[Solução Prova 1a](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_avaliativo_1a_solucao.ipynb)
+[Prova 1a]
 
 ### Parte 2: `Pandas` 
 
