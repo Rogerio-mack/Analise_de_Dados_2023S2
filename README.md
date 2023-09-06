@@ -16,6 +16,8 @@
 
 [Exercício 3: Lab Matplotlib - Distribuição dos dados (`hist`)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Matplotlib_02.ipynb)
 
+[Lab Avaliativo 1](https://github.com/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_avaliativo_a.ipynb)
+
 [Exercício 4: Lab Seaborn - Relações dos dados & Seaborn (`scatter`)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Seaborn.ipynb)
 
 [Exercício 5: Lab Quantidades e Proporções (`bar`,`barplot`)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_quantidades_proporc.ipynb)
