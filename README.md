@@ -6,7 +6,7 @@
 # Análise de Dados Labs
 
 <br>
-<br>
+<br> 
 
 ### Parte 1: Python Notebooks, Colab, Markdown e Visualização de Dados com `Matplotlib` e `Seaborn`
 
