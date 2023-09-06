@@ -14,7 +14,7 @@
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Colab_Markdown_arquivos_solucao.ipynb)
 
 [Exercício 2: Lab Matplotlib - Evolução dos dados (`plot`)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Matplotlib.ipynb)
-| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/ab_Matplotlib_solucao.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Matplotlib_solucao.ipynb)
 
 [Exercício 3: Lab Matplotlib - Distribuição dos dados (`hist`)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Matplotlib_02.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Matplotlib_02_solucao.ipynb)
