@@ -19,8 +19,11 @@
 [Exercício 3: Lab Matplotlib - Distribuição dos dados (`hist`)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Matplotlib_02.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Matplotlib_02_solucao.ipynb)
 
-[Lab Avaliativo 1](https://github.com/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_avaliativo_a.ipynb)
+[Lab Avaliativo 1](https://github.com/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_avaliativo_a2.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_avaliativo_a_solucao.ipynb)
+
+[Lab Avaliativo 1b](https://github.com/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_avaliativo_1bb.ipynb)
+| [**Solução**](https://github.com/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_avaliativo_1bb_solucao.ipynb)
 
 [Exercício 4: Lab Seaborn - Relações dos dados & Seaborn (`scatter`)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Seaborn.ipynb)
 
