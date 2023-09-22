@@ -26,8 +26,10 @@
 | [**Solução**](https://github.com/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_avaliativo_1bb_solucao.ipynb)
 
 [Exercício 4: Lab Seaborn - Relações dos dados & Seaborn (`scatter`)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Seaborn.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Seaborn_solucao.ipynb)
 
 [Exercício 5: Lab Quantidades e Proporções (`bar`,`barplot`)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_quantidades_proporc.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_quantidades_proporc_solucao.ipynb)
 
 ### Parte 2: `Pandas` 
 
