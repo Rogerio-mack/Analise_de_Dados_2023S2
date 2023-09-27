@@ -31,6 +31,8 @@
 [Exercício 5: Lab Quantidades e Proporções (`bar`,`barplot`)](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_quantidades_proporc.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_quantidades_proporc_solucao.ipynb)
 
+[Lab Avaliativo 2](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Analise_Lab_avaliativo2.ipynb)
+
 ### Parte 2: `Pandas` 
 
 ### Parte 3: `Numpy e R` 
