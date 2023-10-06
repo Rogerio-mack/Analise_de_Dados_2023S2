@@ -35,8 +35,6 @@
 
 ### Parte 2: `Pandas` 
 
-### Parte 2: `Pandas` 
-
 [Exercício 6: Lab Pandas I - Seleções Simples](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Pandas1.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados__2023S2/blob/main/Lab_Pandas1_solucao.ipynb)
 
