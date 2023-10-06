@@ -35,6 +35,21 @@
 
 ### Parte 2: `Pandas` 
 
+### Parte 2: `Pandas` 
+
+[Exercício 6: Lab Pandas I - Seleções Simples](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados__2023S2/blob/main/Lab_Pandas1.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados__2023S2/blob/main/Lab_Pandas1_solucao.ipynb)
+
+[Exercício 7: Lab Pandas II - Clean Data, Analysis](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Pandas2.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Pandas2_solucao.ipynb)
+
+[Solução Prova 2](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_avaliativo_2_solucao.ipynb)
+
 ### Parte 3: `Numpy e R` 
 
+[Exercício 8: Lab NumPy](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Numpy.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Numpy_solucao.ipynb)
+
+[Exercício 9: Lab Distribuições](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Distributions.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Distributions_solucao.ipynb)
 
