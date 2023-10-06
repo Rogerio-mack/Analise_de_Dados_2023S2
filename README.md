@@ -40,6 +40,8 @@
 [Exercício 6: Lab Pandas I - Seleções Simples](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Pandas1.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados__2023S2/blob/main/Lab_Pandas1_solucao.ipynb)
 
+> [Aula])(https://colab.research.google.com/drive/1NBcEDvJU753_Fsp03uTMz2Mfp2vm3My9?usp=sharing)
+
 [Exercício 7: Lab Pandas II - Clean Data, Analysis](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Pandas2.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Pandas2_solucao.ipynb)
 
