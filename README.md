@@ -32,6 +32,7 @@
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_quantidades_proporc_solucao.ipynb)
 
 [Lab Avaliativo 2](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Analise_Lab_avaliativo2B.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Analise_Lab_avaliativo2B_solucao.ipynb)
 
 ### Parte 2: `Pandas` 
 
@@ -44,8 +45,6 @@
 
 [Exercício 7: Lab Pandas II - Clean Data, Analysis](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Pandas2.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Pandas2_solucao.ipynb)
-
-[Solução Prova 2](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_avaliativo_2_solucao.ipynb)
 
 ### Parte 3: `Numpy e R` 
 
