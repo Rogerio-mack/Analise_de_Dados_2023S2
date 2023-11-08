@@ -48,9 +48,8 @@
 
 ### Parte 3: `Numpy e R` 
 
-[Exercício 8: Lab NumPy](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Numpy.ipynb)
+[Exercício 8: Lab NumPy](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Numpy.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Numpy_solucao.ipynb)
 
-[Exercício 9: Lab Distribuições](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Distributions.ipynb)
-| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Distributions_solucao.ipynb)
+
 
