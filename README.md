@@ -37,19 +37,19 @@
 ### Parte 2: `Pandas` 
 
 [Exercício 6: Lab Pandas I - Seleções Simples](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Pandas1.ipynb)
-| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados__2023S2/blob/main/Lab_Pandas1_solucao.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Pandas1_solucao.ipynb)
 
 > [Aula 2G11](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Aula_20231006.ipynb)
 
 > [Aula 2D12](https://colab.research.google.com/drive/1h3t1YILAU7a1eQdrhLzx8UCp28idIMQT?usp=sharing)
 
 [Exercício 7: Lab Pandas II - Clean Data, Analysis](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Pandas2.ipynb)
-| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Pandas2_solucao.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Pandas2_solucao.ipynb)
 
 ### Parte 3: `Numpy e R` 
 
 [Exercício 8: Lab NumPy](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Numpy.ipynb)
-| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_dados_labs/blob/main/Lab_Numpy_solucao.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Numpy_solucao.ipynb)
 
 
 
