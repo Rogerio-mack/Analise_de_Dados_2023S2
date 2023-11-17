@@ -51,7 +51,7 @@
 [Exercício 8: Lab NumPy](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Numpy.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_Numpy_solucao.ipynb)
 
-[Exemplo Convolução Vetor](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/conv_linear.ipynb)
+[Exemplo Convolução Vetor e Matriz](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/convolucao_matrizes.ipynb)
 
 
 
