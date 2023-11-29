@@ -53,5 +53,9 @@
 
 [Exemplo Convolução Vetor e Matriz](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/convolucao_matrizes.ipynb)
 
+[**Solução Lab Avaliativo 3A**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_avaliativo_3b_solucao.ipynb)
+
+[**Solução Lab Avaliativo 3B**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_avaliativo_3_solucao.ipynb)
+
 
 
