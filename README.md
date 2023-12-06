@@ -57,5 +57,9 @@
 
 [**Solução Lab Avaliativo 3B**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_avaliativo_3_solucao.ipynb)
 
+<br>
+
+[**Lab substitutivo**](https://colab.research.google.com/github/Rogerio-mack/Analise_de_Dados_2023S2/blob/main/Lab_avaliativo_SUB_1.ipynb)
+
 
 
